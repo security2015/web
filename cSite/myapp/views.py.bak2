@@ -1,0 +1,57 @@
+# -*- coding: utf-8 -*-
+from django.shortcuts import render_to_response
+from django.template import RequestContext
+from django.http import HttpResponseRedirect
+from django.core.urlresolvers import reverse
+
+from myapp.models import Document
+from myapp.models import upload_to_unqiue_folder
+from myapp.forms import DocumentForm
+
+import subprocess
+
+def list(request):
+    syntax = 'init'
+    # Handle file upload
+    if request.method == 'POST':
+        form = DocumentForm(request.POST, request.FILES)
+        if form.is_valid():
+            newdoc = Document(docfile = request.FILES['docfile'])
+            newdoc.save()
+            
+#############is vaild?#####################
+
+      #	     exVar = newdoc.docfile.name
+	#    arg = /root/cSite/xxxxx
+      #      exx = subprocess.Popen(arg, shell=True)
+	    filename = 'media/' + newdoc.docfile.name
+
+	    if(filename.split('.')[1]) != "png":
+		syntax = 'this is not PNG file'
+
+	    infile = open(filename, "rb")
+	    header = infile.read(8)
+
+	    if header != '\211PNG\r\n\032\n':
+		syntax = 'not a valid PNG file'
+
+	    else:
+		syntax = 'valid';
+
+##############################test#########
+#	    exVar = '32'
+#	    arg = '/cSite/media/test.py' + exVar
+#           exx = subprocess.Popen(arg)
+###########################################
+	    
+
+
+    else:
+        form = DocumentForm() # A empty, unbound form
+
+    # Render list page with the documents and the form
+    return render_to_response(
+        'valid.html',
+        {'syntax' : syntax},
+        context_instance=RequestContext(request)
+    )
