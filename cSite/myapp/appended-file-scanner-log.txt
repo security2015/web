@@ -263,3 +263,844 @@ scanning
 
 no files found
 
+scanning
+/root/cSite/documents/tmp/0925f9d610.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/5aa31f9000.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/cfc783c2b5.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/4663a1aec6.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/4cb1df9d7c.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/209f8148be.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/559cce9431.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/291d843a23.jpeg
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/c1984eeb4b.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/7085760d14.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/d43a58eabc.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/8c1d9bdca6.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/039b682d29.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/d89dba77fe.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/0e5e1e9e13.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/bcae0cbbe6.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/07ee4f24c5.jpeg
+
+/root/cSite/media/documents/tmp/07ee4f24c5.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to 07ee4f24c5.jpeg
+
+scanning
+/root/cSite/documents/tmp/195fee7df9.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/e4c59b2f84.png
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/75e82194e8.pdf
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/890002eeca.doc
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/6c33c7c5bf.jpg
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/4eb8e09356.doc
+
+no files found
+
+scanning
+/root/cSite/myapp
+
+/root/cSite/myapp/appended-file-scanner-discoveries/07ee4f24c5.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+
+scanning
+/root/cSite/myapp
+
+/root/cSite/myapp/appended-file-scanner-discoveries/07ee4f24c5.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+
+scanning
+/root/cSite/myapp
+
+/root/cSite/myapp/appended-file-scanner-discoveries/07ee4f24c5.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+
+scanning
+/root/cSite/documents/tmp/750338e165.doc
+
+no files found
+
+scanning
+/root/cSite/documents/tmp/d49f66f94b.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/07ee4f24c5.jpeg
+
+/root/cSite/media/documents/tmp/07ee4f24c5.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to File 2 named 07ee4f24c5.jpeg
+
+scanning
+/root/cSite/documents/tmp/f0b5b22035.doc
+
+no files found
+
+scanning
+/media/documents/tmp/b751c231ce.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/740367b7d4.jpeg
+
+/root/cSite/media/documents/tmp/740367b7d4.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to 740367b7d4.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/7abea15811.jpeg
+
+/root/cSite/media/documents/tmp/7abea15811.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to 7abea15811.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/9f2a30c94f.doc
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/879617085d.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/d4f2caccbc.vogmdk
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/e33b869d6d.suz8wz
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/ca8518cd6f.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/aabc57a9bc.zdvpex
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/e50b9e886f.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/0afd32c76a.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/9dbd14a175.jpeg
+
+/root/cSite/media/documents/tmp/9dbd14a175.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to 9dbd14a175.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/043726b497.jpeg
+
+no files found
+
+scanning
+/root/media/documents/tmp/9dbd14a175.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/9dbd14a175.jpeg
+
+/root/cSite/media/documents/tmp/9dbd14a175.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to File 2 named 9dbd14a175.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/18526280b8.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fc4cb795a8.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/c165e12335.jpeg
+
+/root/cSite/media/documents/tmp/c165e12335.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to c165e12335.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/b6a934b11d.xvqjwm
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/c123fc4256.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/631246b026.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/7d4ec091a8.qvayqq
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/22ac1468d0.l67jdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/f3fbae8235.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/26d11e1be9.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/6f4215ed0f.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/e4769c7877.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/c373941305.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/26171b8f7d.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/0919f355a2.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/1b9f80ff51.pdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/ad7db234e1.pdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/2e3f10975f.pdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/bc3eb19f9d.gif
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/acff4be320.gif
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/04032e6b0e.pdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fe2ee5d235.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/a158ed99d6.txt
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/be1ac0630a.doc
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/2a3c8642bf.doc
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/0ee00b302c.jpeg
+
+/root/cSite/media/documents/tmp/0ee00b302c.jpeg
+found 6134590 bytes starting with:
+'PK\x03\x04\x14\x00\x00\x00\x08\x00.\xae\xfa6\x80\xfc\xeb\xb5S\x1d'
+copied to 0ee00b302c.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/231c9553b4.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/1f977dbb27.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/3eb068382f.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/07f181538c.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/ee360ebf9f.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/d0f922d0e5.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/13668c5760.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fab6353c42.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/6585f2d185.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/cee83a0e40.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/bb458a74b4.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/aa78eecef0.gif
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/338ca688b6.pdf
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/7996532436.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/3e35fb0ae3.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/21202e9064.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/a0292aa263.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fc9e1c0993.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fe2f37d6e6.jpeg
+
+/root/cSite/media/documents/tmp/fe2f37d6e6.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to fe2f37d6e6.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/6b1d3d8412.jpeg
+
+/root/cSite/media/documents/tmp/6b1d3d8412.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 6b1d3d8412.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/f6b87bd253.jpeg
+
+/root/cSite/media/documents/tmp/f6b87bd253.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to f6b87bd253.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/7c9c897904.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/a5e8915285.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/8154bca0c0.jpeg
+
+/root/cSite/media/documents/tmp/8154bca0c0.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 8154bca0c0.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/dbca2cf3f0.jpeg
+
+/root/cSite/media/documents/tmp/dbca2cf3f0.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to dbca2cf3f0.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/aa19827e11.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/92f4215383.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/9ee19077dc.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/fc2738fea2.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/c61e9d5ed4.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/378d6d7ea1.jpeg
+
+/root/cSite/media/documents/tmp/378d6d7ea1.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 378d6d7ea1.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/861a5470a4.jpeg
+
+/root/cSite/media/documents/tmp/861a5470a4.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 861a5470a4.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/87a365a7ba.jpeg
+
+/root/cSite/media/documents/tmp/87a365a7ba.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 87a365a7ba.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/9f59360c96.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/74f3259826.jpeg
+
+/root/cSite/media/documents/tmp/74f3259826.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 74f3259826.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/fc3259c4b3.jpeg
+
+/root/cSite/media/documents/tmp/fc3259c4b3.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to fc3259c4b3.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/2ecc87ede6.jpeg
+
+/root/cSite/media/documents/tmp/2ecc87ede6.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 2ecc87ede6.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/d63e371029.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/6e3a411170.jpeg
+
+/root/cSite/media/documents/tmp/6e3a411170.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 6e3a411170.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/b3454a2cc4.jpeg
+
+/root/cSite/media/documents/tmp/b3454a2cc4.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to b3454a2cc4.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/a17767d1b3.jpeg
+
+/root/cSite/media/documents/tmp/a17767d1b3.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to a17767d1b3.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/f9d6ecbbd7.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/9bd6b9ae7a.jpeg
+
+/root/cSite/media/documents/tmp/9bd6b9ae7a.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 9bd6b9ae7a.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/ac476141f4.gif
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/62024d9e09.jpeg
+
+/root/cSite/media/documents/tmp/62024d9e09.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 62024d9e09.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/be561dac64.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/8ac2f481a9.jpeg
+
+/root/cSite/media/documents/tmp/8ac2f481a9.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 8ac2f481a9.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/15089f26bd.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/60ad7d0275.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/a4e24229d2.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/609af9be61.jpeg
+
+/root/cSite/media/documents/tmp/609af9be61.jpeg
+found 15 bytes starting with:
+"I'm a bad boy.\n"
+copied to 609af9be61.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/466cb320e9.png
+
+/root/cSite/media/documents/tmp/466cb320e9.png
+found 15 bytes starting with:
+"I'm a bad boy.\n"
+copied to 466cb320e9.png
+
+scanning
+/root/cSite/media/documents/tmp/e69495833f.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/3cf19aecbb.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/7236564229.jpeg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/41d50e628d.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/b7c7fb5cfc.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/c3d00cabe3.jpeg
+
+/root/cSite/media/documents/tmp/c3d00cabe3.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to c3d00cabe3.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/19ad3d5bea.jpeg
+
+/root/cSite/media/documents/tmp/19ad3d5bea.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 19ad3d5bea.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/e4c6561839.jpeg
+
+/root/cSite/media/documents/tmp/e4c6561839.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to e4c6561839.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/d0e82b97eb.jpeg
+
+/root/cSite/media/documents/tmp/d0e82b97eb.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to d0e82b97eb.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/987f59f6a7.jpeg
+
+/root/cSite/media/documents/tmp/987f59f6a7.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 987f59f6a7.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/513f773215.jpeg
+
+/root/cSite/media/documents/tmp/513f773215.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 513f773215.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/8fe931ff70.jpeg
+
+/root/cSite/media/documents/tmp/8fe931ff70.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 8fe931ff70.jpeg
+
+scanning
+/root/cSite/media/documents/tmp/937d756028.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/05e83d1ce5.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/69da0a1f05.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/9765ec308e.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/0a6aef21f8.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/22c896354b.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/6b68857132.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/a9b2089edc.png
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/966ea55231.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/4c9487f9b0.jpg
+
+no files found
+
+scanning
+/root/cSite/media/documents/tmp/3a73628bec.jpeg
+
+/root/cSite/media/documents/tmp/3a73628bec.jpeg
+found 16 bytes starting with:
+'hello Fre5h7una!'
+copied to 3a73628bec.jpeg
+

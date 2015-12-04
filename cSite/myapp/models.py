@@ -44,7 +44,7 @@ def upload_to_unqiue_folder(instance, filename):
     tmp = fileext.split('.')
     return  "documents/tmp/" + '%(hash_path)s.%(fileext)s' % {
                                                'hash_path': hash[:10],
-                                               'fileext': tmp[-1]}
+                                               'fileext': tmp[-1].lower()}
 
 class Document(models.Model):
     docfile = models.FileField(upload_to=upload_to_unqiue_folder)

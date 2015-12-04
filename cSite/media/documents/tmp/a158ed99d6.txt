@@ -1,0 +1,4 @@
+실행파일 폴더:
+C:\Users\Windforce\Desktop\iTorque2D_1_5\MyProjects\JBes\projectFiles
+코드: 
+C:\Users\Windforce\Desktop\iTorque2D_1_5\MyProjects\JBes\projectFiles\Scripts

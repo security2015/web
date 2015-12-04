@@ -23,39 +23,47 @@ def list(request):
             newdoc = Document(docfile = request.FILES['docfile'])
             newdoc.save()
             
-#############is vaild?#####################
-
 	    filename = 'media/' + newdoc.docfile.name
 	    extension = filename.rsplit('.')[-1]
+#############is vaild?#####################
+	    if(imghdr.what(filename)=='rgb' or imghdr.what(filename)=='gif' or imghdr.what(filename)=='pbm' or imghdr.what(filename)=='pgm' or imghdr.what(filename)=='ppm' or imghdr.what(filename)=='tiff' or imghdr.what(filename)=='rast' or imghdr.what(filename)=='xbm' or imghdr.what(filename)=='jpeg' or imghdr.what(filename)=='bmp' or imghdr.what(filename)=='png' or imghdr.what(filename)=='jpg'):
 
-	    #exception handle. jpg is a part of jpeg format
-	    if(imghdr.what(filename)=='jpeg' and extension=='jpg'):
-		syntax = 1
-	    elif imghdr.what(filename) == extension:
-		syntax = 1
+	        #exception handle. jpg is a part of jpeg format
+	        if (imghdr.what(filename)=='jpeg' and extension=='jpg'):
+		    extSyntax = 1
+	        elif imghdr.what(filename) == extension:
+		    extSyntax = 1
+	        else:
+		    extSyntax = 2
 	    else:
-		syntax = 3
+		extSyntax = 0
 
 
 ##############################test#########
       	    exVar = newdoc.docfile.name
-            exx = check_output(['myapp/embed.py',exVar])
+            exx = check_output(['myapp/embed.py','media/'+exVar])
 	    tmp_str = exx.rsplit('\n')[3]
-	    if(tmp_str == 'no files found'):
-		syntax = 1
+	    if(imghdr.what(filename) == 'gif' or imghdr.what(filename) == 'jpeg' or imghdr.what(filename) == 'jpeg' or imghdr.what(filename) == 'png'):
+	        if(tmp_str == 'no files found'):
+		    embSyntax = 1
+	        else:
+		    embSyntax = 2
+		    tmp_str = exx.rsplit('\n')[4] + exx.rsplit('\n')[5]
 	    else:
-		if(syntax == 1):
-		    syntax = 2
-		else:
-		    syntax = 4
+		embSyntax = 0
 ###########################################
+	  
+
 
             # Json to the document list after POST
 	    data = {
-		    'result' : syntax,
-      		    'tmp value' : tmp_str,
-		    'extension' : imghdr.what(filename),
-		    'message' : exx
+		    'original' : request.FILES['docfile'].name,
+		    'filename' : newdoc.docfile.name.rsplit('/')[2],
+		    'extension_result' : extSyntax,
+		    'embedded_result' : embSyntax,
+		    'embedded_message' : tmp_str,
+		    'current' : extension,
+		    'expected' : imghdr.what(filename)
 		   }
 	    return JsonResponse(data)
 
